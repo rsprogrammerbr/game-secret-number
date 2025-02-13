@@ -38,12 +38,12 @@ Para rodar o jogo em sua máquina, siga os passos abaixo:
 
 ### 1️⃣ **Clone este repositório:**
 ```bash
-git clone https://github.com/rsprogrammerbr/jogo-numero-secreto.git
+git clone https://github.com/rsprogrammerbr/game-secret-number.git
 ```
 
 ### 2️⃣ **Navegue até o diretório do projeto:**
 ```bash
-cd jogo-do-numero-secreto
+cd game-secret-number
 ```
 
 ### 3️⃣ **Abra o arquivo** `index.html` **em seu navegador.**
